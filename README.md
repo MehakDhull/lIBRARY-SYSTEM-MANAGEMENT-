@@ -22,5 +22,5 @@ cd Library-System-Management
 g++ -o library_app LibAppMain.cpp LibApp.cpp Publication.cpp Book.cpp Menu.cpp Utils.cpp Streamable.cpp Date.cpp PublicationSelector.cpp -std=c++11
 ./library_app  # Run on Mac/Linux
 library_app.exe  # Run on Windows
-![210d12d3-a018-47cc-8fe4-77796bb6b821](https://github.com/user-attachments/assets/9da5216e-4a23-4395-a004-3da4ca906e79)
 
+[WhatsApp Image 2025-02-11 at 3 00 03 PM](https://github.com/user-attachments/assets/e6b60880-5e1e-4357-90a4-97c3969d0d9a)
